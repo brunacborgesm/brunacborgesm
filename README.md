@@ -6,7 +6,7 @@
 
   <p>
   :palm_tree: Welcome to my GitHub! :palm_tree: <br>
-  Graduated in Systems Analysis and Development, I work as as Front-End Developer and venturing into iOS development as well. Well, here are some of the things I learned in my job, courses, and tech adventures! Feel free to give me tips and explore my repositories. </p>
+  Graduated in Systems Analysis and Development, I work as as System Engineer and venturing into React as well. Well, here are some of the things I learned in my job, courses, and tech adventures! Feel free to give me tips and explore my repositories. </p>
 
 
   ## :computer: Techs and Tools :computer:
