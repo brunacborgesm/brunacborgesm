@@ -1,6 +1,6 @@
 <div align="center">  
   
-  ### Hey, I am Bruna Borges!:v:
+  ### Hey, I am Bruna Borges!
 
 <a href="https://www.linkedin.com/in/brunacborgesm/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
