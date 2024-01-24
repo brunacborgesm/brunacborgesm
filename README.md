@@ -6,7 +6,7 @@
 
   <p>
   :palm_tree: Welcome to my GitHub! :palm_tree: <br>
-  Graduated in Systems Analysis and Development, I work as as System Engineer and venturing into React as well. So, here are some of the things I learned in my job, courses, and tech adventures! Feel free to give me tips and explore my repositories.</p>
+  With four years of experience in the technology field, has been a front-end developer with a focus on Drupal 7. Currently, is determinedly transitioning expertise to React JS, actively seeking opportunities as a ReactJS developer to apply consolidated experience and passion for acquiring new knowledge to tackle challenging projects. Feel free to give me tips and explore my repositories.</p>
 
 
   ## :computer: Techs and Tools :computer:
