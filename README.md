@@ -9,6 +9,10 @@
   :palm_tree: Welcome to my GitHub! :palm_tree: <br>
   With four years of experience in the technology field, I am a skilled front-end developer proficient in React JS. I also have experience working with Drupal, although my primary focus and expertise lie in React JS. I am actively seeking opportunities as a React JS developer to apply my knowledge and passion for technology to tackle challenging projects. Feel free to give me tips and explore my repositories.</p>
 
+  <p>
+  :warning: ORGANIZING THINGS HERE!! :warning:
+  </p>
+
 
   ## :computer: Techs, Frameworks and Tools :computer:
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
