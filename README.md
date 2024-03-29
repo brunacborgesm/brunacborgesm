@@ -2,7 +2,7 @@
   
   ### Hey, I am Bruna Borges!
 
-<a href="https://www.linkedin.com/in/brunacborgesm/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaborgesdev@gmail.com)  <are  href="https://brunacborgesm.github.io/bruna_borges/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/brunacborgesm/" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaborgesdev@gmail.com)  <a href="https://brunacborgesm.github.io/bruna_borges/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 
   <p>
