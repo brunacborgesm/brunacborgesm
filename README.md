@@ -7,7 +7,7 @@
 
   <p>
   :palm_tree: Welcome to my GitHub! :palm_tree: <br>
-  With four years of experience in the technology field, I am a skilled front-end developer proficient in React JS. I also have experience working with Drupal, although my primary focus and expertise lie in React JS. I am actively seeking opportunities as a React JS developer to apply my knowledge and passion for technology to tackle challenging projects. Feel free to give me tips and explore my repositories.</p>
+  With three years of experience in the technology field, I am a skilled front-end developer proficient in React JS. I also have experience working with Drupal, although my primary focus and expertise lie in React JS. I am actively seeking opportunities as a React JS developer to apply my knowledge and passion for technology to tackle challenging projects. Feel free to give me tips and explore my repositories.</p>
 
   <p>
   :warning: ORGANIZING THINGS HERE!! :warning:
