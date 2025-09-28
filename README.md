@@ -1,57 +1,64 @@
-<div align="center">
+<h1 align="center"> 👋 Hello, I’m Bruna Borges </h1>
 
-### Bruna Borges
-<pre>
-Front-End React Developer | Software Engineer 
-</pre>
+<h3 align="center">
+  Front-End Developer · Software Engineer
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunacborgesm/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaborgesdev@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brunacborgesm.github.io/brunaborgesdev/)
-[![Calendry](https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/brunaborgesdev)
+<img align="right" src="./readme-image.png" width="350"></img>
 
----
+- 💻 **Front-end Developer** passionate about crafting clean and useful interfaces using **React, Next.js, TypeScript, and Tailwind CSS**.
 
-### Sobre mim
+- 🌍 I’ve been part of global teams and projects where collaboration and adaptability were key and I really enjoy working in that kind of environment.
 
-<p align="center">
-Desenvolvedora com mais de três anos de experiência em projetos globais utilizando React, TypeScript, Node.js e Tailwind CSS para soluções de alto padrão. Construí minha carreira em multinacionais com diversos produtos o que permitiu ter bastante referência de projetos. Tenho um ótimo relacionamento com todos onde passo, amo o que faço e procuro sempre estar evoluindo.
+- 🎯 What drives me is creating products that are not only functional, but also meaningful and easy to use.
+
+- 📫 Reach me at:  **brunaborgesdev@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacborgesm&label=Profile%20views&color=0e75b6&style=flat" alt="developermohitt" /> </p>
+
+## 🛠️ Tech Stack & Tools
+
+**Front-end & Styling**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,materialui,styledcomponents" />
+</p>
+
+**Workflow & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jira,confluence" />
+</p>
+
+**Other knowledge**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+</p>
+
+## 📈 Currently Learning
+- Unit testing with Jest  
+- Front-end architecture best practices  
+- Fullstack Bootcamp (C#, .NET, React, and Java)  
+
+## 🌐 Contact me
+<p align="left">
+  <a href="https://www.linkedin.com/in/brunacborgesm/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:brunaborgesdev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 ---
 
-### Tecnologias, Frameworks e Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
-
----
-
-### Estatísticas do GitHub
+### GitHub Status
 
 <div align="center">
   <a href="https://github.com/brunacborgesm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunacborgesm&show_icons=true&theme=default" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacborgesm&layout=compact&theme=default"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunacborgesm&show_icons=true&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacborgesm&layout=compact&theme=dracula"/>
   </a>
 </div>
 
 ---
-
-<pre>
-Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões.
-</pre>
-![ViewCount](https://views.whatilearened.today/views/github/brunacborgesm/views.svg)
-
-</div>
+💬 “For me, technology is about simplifying life and helping people make better choices every day.”
 
