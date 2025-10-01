@@ -4,7 +4,9 @@
   Front-End Developer · Software Engineer
 </h3>
 
-<img align="right" src="./readme-image.png" width="350"></img>
+<p align="center">
+  <img align="center" src="./readme-image.png" width="350"></img>
+</p>
 
 - 💻 **Front-end Developer** passionate about crafting clean and useful interfaces using **React, Next.js, TypeScript, and Tailwind CSS**.
 
